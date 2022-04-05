@@ -1,16 +1,21 @@
-### Hi there 👋
+### Привет, меня зовут Катерина и я frontend-разработчица👋
 
-<!--
-**thunderheina/thunderheina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Люблю изучать новые штуки
+- Хочу научиться писать сложный и чистый код
+- Освоить крутые фреймворки и препроцессоры
 
-Here are some ideas to get you started:
+### Стэк
+#### Frontend:
+- HTML
+- CSS(Sass, Less)
+- JavaScript
+- React + Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools:
+- БЭМ, Atomic CSS
+- Git
+- Avocode, Figma, Adobe Photoshope
+- Postman
+- VSCode
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderheina)](https://github.com/thunderheina/github-readme-stats)
