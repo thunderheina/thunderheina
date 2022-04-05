@@ -17,5 +17,3 @@
 - Avocode, Figma, Adobe Photoshope
 - Postman
 - VSCode
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderheina&layout=compact)](https://github.com/thunderheina/github-readme-stats)
